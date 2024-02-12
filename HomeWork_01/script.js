@@ -110,4 +110,3 @@ function getActivityHtml(activity) {
   </div>`;
 }
 
-// нужно сохранить в localStorage состояние - записан ли польхователь на занятие
